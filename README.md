@@ -132,7 +132,6 @@ The project is preserved as an example of an earlier stage of development and ex
 - Requests
 - Socket programming
 - Terminal ANSI escape sequences
-- Tkinter (GUI version)
 
 ## Disclaimer
 
