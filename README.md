@@ -1,6 +1,6 @@
 # P.O.S. - Gemini AI Assistant
 
-A Python-based terminal AI assistant built around two years ago using Google's Gemini API.
+A Python terminal-based terminal AI assistant built around two years ago using Google's Gemini API.
 
 The project was an early experiment with generative AI, API integration, conversational interfaces, and basic system interaction.
 
